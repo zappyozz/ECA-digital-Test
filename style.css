@@ -1,0 +1,91 @@
+/* font-family: 'Prompt', sans-serif; */
+/* font-family: 'Kanit', sans-serif; */
+
+nav {
+  background-color: lightgray;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.title-nav-bar {
+  vertical-align: middle;
+  color: white;
+  font-size: 20px;
+  font-family: "Kanit", sans-serif;
+  text-align: center;
+}
+
+.info-nav-bar {
+  color: white;
+  font-family: "Kanit", sans-serif;
+  text-align: right;
+  vertical-align: bottom;
+  font-size: 17px;
+}
+
+.icon-nav-bar {
+  color: white;
+  font-family: "Kanit", sans-serif;
+  vertical-align: bottom;
+}
+
+.fixed-name {
+  /* background-color: aqua; */
+  font-family: "Kanit", sans-serif;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.drop-down-zone .btn-outline-dark {
+  font-family: "Kanit", sans-serif;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  text-align: left;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.status {
+  /* background-color: aqua; */
+  font-family: "Kanit", sans-serif;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  vertical-align: middle;
+}
+
+.status .btn-outline-dark {
+  font-family: "Kanit", sans-serif;
+  font-size: 15px;
+  text-align: middle;
+  padding-top: 17px;
+  padding-bottom: 15px;
+}
+
+.status svg {
+  padding-right: 5px;
+}
+
+#btnradio1 {
+  padding-top: 15px;
+}
+
+.content-table {
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.content-table img {
+  height: 100px;
+  width: auto;
+  margin-top: 17px;
+  margin-bottom: 17px;
+  margin-left: 17px;
+  margin-right: 17px;
+}
